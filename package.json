@@ -1,0 +1,25 @@
+{
+  "name": "tasks-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soyaliciaflores/tasks-node.git"
+  },
+  "keywords": [],
+  "author": "Alicia Flores <floresalvarado.alicia@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soyaliciaflores/tasks-node/issues"
+  },
+  "homepage": "https://github.com/soyaliciaflores/tasks-node#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.1.1",
+    "uuid": "^8.3.2"
+  }
+}
